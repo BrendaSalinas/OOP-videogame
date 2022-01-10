@@ -1,0 +1,22 @@
+{
+  "name": "oop-videogame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendaSalinas/OOP-videogame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrendaSalinas/OOP-videogame/issues"
+  },
+  "homepage": "https://github.com/BrendaSalinas/OOP-videogame#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
