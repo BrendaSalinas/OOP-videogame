@@ -7,7 +7,7 @@ const Potion = require('../lib/__mocks__/Potion');
 test('creates a player object', () => {
     const player = new Player('Brenda');
 
-    expect(player.name).toBe('Dave');
+    expect(player.name).toBe('Brenda');
     expect(player.health).toEqual(expect.any(Number));
     expect(player.strength).toEqual(expect.any(Number));
     expect(player.agility).toEqual(expect.any(Number));
