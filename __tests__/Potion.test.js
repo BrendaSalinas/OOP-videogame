@@ -8,3 +8,7 @@ test('creates a random potion object', () => {
     expect(potion.value).toEqual(expect.any(Number));
   });
   
+
+jest.mock('../lib/Potion.js');
+
+console.log(new Potion());
